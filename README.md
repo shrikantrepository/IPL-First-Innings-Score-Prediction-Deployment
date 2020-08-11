@@ -32,6 +32,6 @@ Used Root Mean Squared Error (RMSE) as the evaluation metric
 3. *Implement this problem statement using Artificial Neural Network (ANN).*
 
 ### Deployed Web App
-If you want to view the deployed model, then follow the links mentioned below:
-1. GitHub: https://github.com/shrikantrepository/IPL-First-Innings-Score-Prediction-Deployment
-2. Web App: https://ipl-first-innings-score.herokuapp.com/
+If you want to view the deployed model, then follow the link mentioned below:
+1. *GitHub: https://github.com/shrikantrepository/IPL-First-Innings-Score-Prediction-Deployment*
+
