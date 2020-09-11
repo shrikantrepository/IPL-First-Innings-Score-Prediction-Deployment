@@ -29,7 +29,7 @@ Used Root Mean Squared Error (RMSE) as the evaluation metric
 ### Future Scope
 1. *Add columns in dataset of top batsmen and bowlers of all the teams.*
 2. *Add columns that consists of striker and non-striker's strike rates.*
-3. *Implement this problem statement using Artificial Neural Network (ANN).*
+3. *Implement this problem statement using Artificial Neural Network (ANN)..*
 
 ### Deployed Web App
 If you want to view the deployed model, then follow the link mentioned below:
